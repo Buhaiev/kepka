@@ -34,9 +34,6 @@
 [submodule "Telegram/lib_ui"]
 	path = Telegram/lib_ui
 	url = https://github.com/kepka-app/lib_ui.git
-[submodule "Telegram/lib_rlottie"]
-	path = Telegram/lib_rlottie
-	url = https://github.com/kepka-app/lib_rlottie.git
 [submodule "Telegram/lib_lottie"]
 	path = Telegram/lib_lottie
 	url = https://github.com/kepka-app/lib_lottie.git
